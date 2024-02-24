@@ -1,0 +1,24 @@
+:Base LIB.HLP
+:Title 
+1 Introduction=Introduction
+1 Patron
+2 Member=Member
+2 Member Type=Member_Type
+1 Cataloging
+2 Material=Material
+2 Material Type=Material_Type
+2 Placement=Placement
+2 Subject=Subject
+2 Language=Language
+1 Utility
+2 Annual Update=Annual_Update
+2 Booking=Booking
+2 User=User
+1 Acquisition
+2 Supply=Supply
+2 Vendor=Vendor
+2 Publisher=Publisher
+1 Circulation
+2 Lost material=Lost_material
+2 Return=Return
+2 Loan=Loan
