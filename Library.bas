@@ -293,7 +293,7 @@ On Local Error GoTo Error_Handler:
     ' Detect first run
     If getLibSet("Copyright") <> "AI NM" Then
         'CheckReg Fail - Add Copyright Mark
-        saveLibSet "Copyright", "AI NM"
+        saveLibSet "Copyright", "AI SRC"
         ' Save to registry indicate new install
         saveLibSet "FirstRun", "True"
         saveLibSet "Check Date", "0"
