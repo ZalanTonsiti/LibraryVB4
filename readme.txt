@@ -13,5 +13,7 @@ sesiapa juga
 ada di situ
 aku pernah tinggal disitu
 
+untuk siapa siapa pernah sekelas aku dan searas aku.
+
 cara balas
 harapan Sultan
