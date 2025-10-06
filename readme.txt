@@ -11,3 +11,4 @@ penduduk sekitar
 satu kejiranan
 sesiapa juga
 ada di situ
+aku pernah tinggal disitu
