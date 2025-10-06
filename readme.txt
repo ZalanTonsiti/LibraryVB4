@@ -12,3 +12,6 @@ satu kejiranan
 sesiapa juga
 ada di situ
 aku pernah tinggal disitu
+
+cara balas
+harapan Sultan
