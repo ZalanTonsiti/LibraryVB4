@@ -8,3 +8,10 @@ untuk
 linda_@hotmail.com
 26 bulan
 batal jika memudaratkan
+
+untuk
+hantu yang mengganggu manusia Malaysia
+12 bulan
+kecuali jika ada perangkap
+@kecuali jika ada kerumitan
+@kecuali jika ada kemudaratan
